@@ -1,2 +1,3 @@
 # FuXi_Solution
-A multi-personality dynamic collaborative decision-making system
+伏羲·多重人格动态协同决策系统<br>
+Fuxi-MDSDS: Multi-agent Dynamic Synergistic Decision System
