@@ -1,3 +1,20 @@
-# FuXi_Solution
-伏羲·多重人格动态协同决策系统<br>
-Fuxi-MDSDS: Multi-agent Dynamic Synergistic Decision System
+# 伏羲 解决方案
+伏羲解决方案旨在利用现有大模型技术完成对人的模拟，以解决现有大模型技术像真正的人工智能技术进化的伦理问题。
+
+## 主要技术方案
+
+### 	多重人格动态协同决策系统
+
+​		伏羲·多重人格动态协同决策系统（**Fuxi-MDSDS**: Multi-agent Dynamic Synergistic Decision System）
+
+​		
+
+## 目前主要项目
+
+### 	伏羲辅助驾驶决策系统
+
+​		通过Fuxi-MDSD技术解决L3及以上的智慧驾驶所面临的伦理难题
+
+## 目前进度
+
+​	完成大部分解决方案理论，正在推进技术论证。
